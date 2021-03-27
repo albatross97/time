@@ -1,4 +1,4 @@
-// Original code by The Wizard Bear
+// Reference: The Wizard Bear
 
 const string = "Time Flies"; //words to be displayed
 const size = 200; //font size
